@@ -1,0 +1,88 @@
+{
+  "docentes": [
+    {
+      "id": 1,
+      "nombre": "Patricio Yañez",
+      "usuario": "Tigre",
+      "contrasena": "1234",
+      "seccion": "002D",
+      "asignatura": "Programacion de Aplicaciones Moviles",
+      "asistencias": []
+    },
+    {
+      "id": 2,
+      "nombre": "Manuel Hidalgo",
+      "usuario": "Caracol",
+      "contrasena": "1234",
+      "seccion": "004D",
+      "asignatura": "Gestion de Personas",
+      "asistencias": []
+    }
+  ],
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Dylan",
+      "usuario": "Phantom",
+      "apellido": "Hernández",
+      "seccion": "002D",
+      "asignaturas": "Programacion de Aplicaciones Moviles y Gestion de Personas",
+      "asistencias": []
+    },
+    {
+      "id": 2,
+      "nombre": "Matias",
+      "usuario": "Martir",
+      "apellido": "Garrido",
+      "seccion": "004D",
+      "asignaturas": "Programacion de Aplicaciones Moviles",
+      "asistencias": []
+    },
+    {
+      "id": 3,
+      "nombre": "Raquel",
+      "usuario": "Rakso",
+      "apellido": "Norambuena",
+      "seccion": "004D",
+      "asignaturas": "Gestion de Personas",
+      "asistencias": []
+    },
+    {
+      "id": 4,
+      "nombre": "Martin",
+      "usuario": "Legias",
+      "apellido": "Carcamo",
+      "seccion": "004D",
+      "asignaturas": "Programacion de Aplicaciones Moviles y Gestion de Personas",
+      "asistencias": []
+    },
+    {
+      "id": 5,
+      "nombre": "Cristian",
+      "usuario": "Dark",
+      "apellido": "Alarcon",
+      "seccion": "002D",
+      "asignaturas": "Programacion de Aplicaciones Moviles y Gestion de Personas",
+      "asistencias": []
+    },
+    {
+      "id": 6,
+      "nombre": "Maria",
+      "usuario": "Paracer",
+      "apellido": "Paz",
+      "seccion": "002D",
+      "asignaturas": "Programacion de Aplicaciones Moviles",
+      "asistencias": []
+    }
+  ],
+  "asignaturas": [
+    {
+      "id": 1,
+      "nombre": "Programación de Aplicaciones Móviles"
+    },
+    {
+      "id": 2,
+      "nombre": "Gestión de Personas"
+    }
+  ]
+}
