@@ -26,7 +26,7 @@
       "usuario": "Phantom",
       "apellido": "Hernández",
       "seccion": "002D",
-      "asignaturas": "Programacion de Aplicaciones Moviles", "Gestion de Personas",
+      "asignaturas": "Programacion de Aplicaciones Moviles y Gestion de Personas",
       "asistencias": []
     },
     {
@@ -53,7 +53,7 @@
       "usuario": "Legias",
       "apellido": "Carcamo",
       "seccion": "004D",
-      "asignaturas": "Programacion de Aplicaciones Moviles", "Gestion de Personas",
+      "asignaturas": "Programacion de Aplicaciones Moviles y Gestion de Personas",
       "asistencias": []
     },
     {
@@ -62,7 +62,7 @@
       "usuario": "Dark",
       "apellido": "Alarcon",
       "seccion": "002D",
-      "asignaturas": "Programacion de Aplicaciones Moviles", "Gestion de Personas",
+      "asignaturas": "Programacion de Aplicaciones Moviles y Gestion de Personas",
       "asistencias": []
     },
     {
@@ -78,13 +78,11 @@
   "asignaturas": [
     {
       "id": 1,
-      "nombre": "Programación de Aplicaciones Móviles",
-      "asistencias": []
+      "nombre": "Programación de Aplicaciones Móviles"
     },
     {
       "id": 2,
-      "nombre": "Gestión de Personas",
-      "asistencias": []
+      "nombre": "Gestión de Personas"
     }
   ]
 }
