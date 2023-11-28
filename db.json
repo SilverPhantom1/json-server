@@ -26,7 +26,7 @@
       "usuario": "Phantom",
       "apellido": "Hernández",
       "seccion": "002D",
-      "asignaturas": ["Programacion de Aplicaciones Moviles", "Gestion de Personas"],
+      "asignaturas": "Programacion de Aplicaciones Moviles", "Gestion de Personas",
       "asistencias": []
     },
     {
@@ -35,7 +35,7 @@
       "usuario": "Martir",
       "apellido": "Garrido",
       "seccion": "004D",
-      "asignaturas": ["Programacion de Aplicaciones Moviles"],
+      "asignaturas": "Programacion de Aplicaciones Moviles",
       "asistencias": []
     },
     {
@@ -44,7 +44,7 @@
       "usuario": "Rakso",
       "apellido": "Norambuena",
       "seccion": "004D",
-      "asignaturas": ["Gestion de Personas"],
+      "asignaturas": "Gestion de Personas",
       "asistencias": []
     },
     {
@@ -53,7 +53,7 @@
       "usuario": "Legias",
       "apellido": "Carcamo",
       "seccion": "004D",
-      "asignaturas": ["Programacion de Aplicaciones Moviles", "Gestion de Personas"],
+      "asignaturas": "Programacion de Aplicaciones Moviles", "Gestion de Personas",
       "asistencias": []
     },
     {
@@ -62,7 +62,7 @@
       "usuario": "Dark",
       "apellido": "Alarcon",
       "seccion": "002D",
-      "asignaturas": ["Programacion de Aplicaciones Moviles", "Gestion de Personas"],
+      "asignaturas": "Programacion de Aplicaciones Moviles", "Gestion de Personas",
       "asistencias": []
     },
     {
@@ -71,7 +71,7 @@
       "usuario": "Paracer",
       "apellido": "Paz",
       "seccion": "002D",
-      "asignaturas": ["Programacion de Aplicaciones Moviles"],
+      "asignaturas": "Programacion de Aplicaciones Moviles",
       "asistencias": []
     }
   ],
